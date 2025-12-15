@@ -35,7 +35,7 @@ variable  "image_project" {
   default = "blog"
   }
 
- variable  "machine type" {
+ variable  "machine_type" {
  type     = string
   default = "e2-micro"
   }
